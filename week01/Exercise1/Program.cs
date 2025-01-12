@@ -64,6 +64,7 @@ class Program
 
 
         //3rd ACTIVITY
+        /*
         Random random = new Random();
 
         int magicNumber = random.Next(1,101);
@@ -94,7 +95,11 @@ class Program
             {
                 Console.WriteLine("You guessed it");
             }
-        } while (userGuess != magicNumber);
+        } while (userGuess != magicNumber);*/
+
+        // 4th ACTIVITY
+
+        
     
     }      
 }
